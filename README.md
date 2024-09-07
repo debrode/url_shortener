@@ -19,7 +19,7 @@ This project is a simple URL shortener built with Spring Boot. It provides RESTf
 - **Response**: Shortened URL string.
 
 ### 2. Redirect to Original URL
-- **URL**: `/{shortUrl}`
+- **URL**: `/api/{shortUrl}`
 - **Method**: `GET`
 - **Response**: Redirects to the original URL.
 
