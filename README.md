@@ -28,8 +28,6 @@ This project is a simple URL shortener built with Spring Boot. It provides RESTf
 - **Method**: `GET`
 - **Response**: JSON response with the top 3 most shortened domains.
 
-## Project Setup
-
 ### Prerequisites
 - Java 17 or above
 - Maven 3.6.3 or above
