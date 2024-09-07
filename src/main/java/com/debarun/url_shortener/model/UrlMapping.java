@@ -1,5 +1,9 @@
 package com.debarun.url_shortener.model;
 
-public class UrlMapping {
+import lombok.Data;
 
+@Data
+public class UrlMapping {
+	private String originalURL;
+	private String shortenedURL;
 }
